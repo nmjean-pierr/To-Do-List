@@ -1,7 +1,7 @@
 # To-Do-List
 
-#This program is to help users organize a list for things they need to work on. 
-#This program can do the following:
+This program is to help users organize a list for things they need to work on. 
+This program can do the following:
 1. Add a task to the to-do list 
 2. View the current to-do list 
 3. Mark a task as completed 
